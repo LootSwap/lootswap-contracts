@@ -1,6 +1,6 @@
 {
   "name": "@lootswap/contracts",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "license": "MIT",
   "description": "Loot Token + 🧑‍🌾 Liquidity Mining contracts for LootSwap & the LootSwap Protocol",
   "files": [
